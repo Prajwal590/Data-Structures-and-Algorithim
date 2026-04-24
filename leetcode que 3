@@ -1,3 +1,5 @@
+//solve using brute force first
+
 import java.util.*;
 
 class Solution {
